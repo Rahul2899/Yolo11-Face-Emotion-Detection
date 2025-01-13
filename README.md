@@ -1,4 +1,4 @@
-# YOLO Object Detection with OpenCV
+# YOLO11 Object Detection with OpenCV
 
 This project demonstrates how to use a YOLO model for object detection using images, videos, and a webcam in real-time. The script allows testing the model on different input types and visualizes bounding boxes, labels, and confidence scores on the output.
 
