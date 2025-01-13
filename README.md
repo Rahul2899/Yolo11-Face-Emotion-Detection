@@ -39,7 +39,7 @@ pip install ultralytics opencv-python
    Execute the script by running:
 
    ```bash
-   python yolodemo.py
+   python app.py
    ```
 
 3. **Choose the mode of operation:**
